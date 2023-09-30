@@ -13,7 +13,7 @@
     "demo": "https://simple-book-store-app.vercel.app/"
   },
   {
-    "title": "Project C",
+    "title": "Social Media Post",
     "description": "This is a simple social media posting app that allows users to post and like content.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://simple-social-media-posting.vercel.app/"
