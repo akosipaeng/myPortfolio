@@ -9,6 +9,9 @@ export const Projects = () => {
   return (
     <section className={styles.container} id="projects">
       <h2 className={styles.title}>Projects</h2>
+      <a href="https://github.com/akosipaeng" target="_blank">
+        My GitHub Profile
+      </a>
       <div className={styles.projects}>
         {projects.map((project, id) => {
           return <ProjectCard key={id} project={project} />;

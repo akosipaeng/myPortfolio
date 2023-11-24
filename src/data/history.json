@@ -6,5 +6,13 @@
     "endDate": "Present",
     "experiences": ["Data scraping", "Increases Data efficiency"],
     "imageSrc": "history/dataScraping.png"
+  },
+  {
+    "role": "Graphic Designer",
+    "organisation": "Freelance",
+    "startDate": "January, 2021",
+    "endDate": "Present",
+    "experiences": ["Logo Design", "Wedding Invitation"],
+    "imageSrc": "history/graphicDesign.png"
   }
 ]

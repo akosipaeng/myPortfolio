@@ -24,3 +24,12 @@
   gap: 15px;
   width: 100%;
 }
+
+
+
+
+a:hover  {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
